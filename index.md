@@ -19,8 +19,6 @@
 
 </details>
 
-<hr/>
-
 ## Important Tangent (HTTP 1.1 and HTTP/2)
 
 <details>
@@ -73,8 +71,6 @@ Let's see how.
 
 </details>
 
-<hr/>
-
 ## gRPC Core Concepts
 
 <details>
@@ -126,8 +122,6 @@ Let's see how.
     ![gRPC-basics](./diagrams/gRPC-basics.png)
 
 </details>
-
-<hr/>
 
 ## gRPC with .NET
 
