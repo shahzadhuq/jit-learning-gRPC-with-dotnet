@@ -1,10 +1,4 @@
-# Introduction
-
-Welcome to another episode in the `Just in Time Learning` series where our goals are to
-1. Quickly become proficient in given topic to facilitate making an informed architecture decision.
-2. Focus on most valuable information that you need to know now. And leave verbose explanation/feature coverage to the topic's documentation.
-
-## Objectives
+# Objectives
 
 1. Learn the core concepts of gRPC and understand what makes it fast.
 1. Learn basics of building gPRC services with .NET.
